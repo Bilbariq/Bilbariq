@@ -4,7 +4,10 @@
 - 🔭 I’m currently working on **Preparing myself for an internship.**
 
 <h3 align="left">About:</h3>
-<p align="left">Hello, I'm bilbariq, a fourth-semester student at BINUS University with a GPA of 3.75. Currently, I'm on an extended semester break and preparing for an internship to make productive use of my time. I am inclined towards non-technical aspects of IT such as team management, analysis, application flow comprehension, planning, and more. Additionally, I am open to exploring technical roles, having studied basic database management, object-oriented programming, algorithm analysis, artificial intelligence, software engineering, agile methodologies, software design patterns, and code reengineering
+<p align="left">Hello, I'm bilbariq, a fourth-semester student at BINUS University with a GPA of 3.75. Currently, I'm on an extended semester break and preparing for an internship to make productive use of my time. I am inclined towards non-technical aspects of IT such as team management, analysis, application flow comprehension, planning, and more. Additionally, I am open to exploring technical roles, having studied basic database management, object-oriented programming, algorithm analysis, artificial intelligence, software engineering, agile methodologies, software design patterns, and code reengineering.
+</p>
+<h3 align="left">Love Life? LOL!!:</h3>
+<p align="left">Hello, I'm bilbariq, a fourth-semester student at BINUS University with a GPA of 3.75. Currently, I'm on an extended semester break and preparing for an internship to make productive use of my time. I am inclined towards non-technical aspects of IT such as team management, analysis, application flow comprehension, planning, and more. Additionally, I am open to exploring technical roles, having studied basic database management, object-oriented programming, algorithm analysis, artificial intelligence, software engineering, agile methodologies, software design patterns, and code reengineering.
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
