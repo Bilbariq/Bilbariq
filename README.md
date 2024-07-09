@@ -1,17 +1,15 @@
 <h1 align="center">Hello, World. Im Bilbariq</h1>
 <h3 align="center">A business dude who has ventured into computer science.</h3>
 
-- 🔭 I’m currently working on **1.2.3**
+- 🔭 I’m currently working on **Preparing myself for an internship.**
 
-- 🌱 I’m currently learning **1.2.3**
+- 🌱 I’m currently learning ****
 
 - 👯 I’m looking to collaborate on **1.2.3**
 
-- 🤝 I’m looking for help with **1.2.3**
-
 - 💬 Ask me about **1.2.3**
 
-- ⚡ Fun fact **Salah Jurusan**
+- ⚡ Fun fact **I dont have one.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
