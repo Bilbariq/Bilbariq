@@ -1,5 +1,5 @@
 <h1 align="center">Hello, World. Im Bilbariq</h1>
-<h3 align="center">A business dude who has ventured into computer science.</h3>
+<h3 align="center">A business dude who strayed into the field of computer science.</h3>
 <h3 align="center">Very Noob Developer..</h3>
 <h3 align="center">Preparing myself for an internship.</h3>
 
