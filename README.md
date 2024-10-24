@@ -1,6 +1,6 @@
 <h1 align="center">Hello, World....</h1>
 <h3 align="center">A sundanese dude who strayed into the field of computer science.</h3>
-<h3 align="center">...</h3>
+<h3 align="center">"Kumaha Damang, jang?"</h3>
 
 <h3 align="left">About:</h3>
 <p align="left">Hello, I’m Nabil Bariq R, a fifth-semester student at BINUS University with a GPA of 3.72. I have internship experience as an IT Business Analyst, where I honed my skills in analyzing business requirements and improving processes. Despite my focus on business analysis, I also possess a keen interest and strong foundation in technical areas such as programming, software development, and database management. I am eager to expand my expertise and contribute in both non-technical and technical roles, combining my analytical mindset with hands-on technical skills to deliver impactful solutions.</p>
