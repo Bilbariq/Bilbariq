@@ -1,10 +1,9 @@
 <h1 align="center">Hello, World....</h1>
-<h3 align="center">A business dude who strayed into the field of computer science.</h3>
+<h3 align="center">A sundanese dude who strayed into the field of computer science.</h3>
 <h3 align="center">...</h3>
 
 <h3 align="left">About:</h3>
-<p align="left">Hello, I'm bilbariq, a fourth-semester student at BINUS University with a GPA of 3.75. Currently, I'm on an extended semester break and preparing for an internship to make productive use of my time. I am inclined towards non-technical aspects of IT such as team management, analysis, application flow comprehension, planning, and more. Additionally, I am open to exploring technical roles, having studied basic database management, object-oriented programming, algorithm analysis, artificial intelligence, software engineering, agile methodologies, software design patterns, and code reengineering.
-</p>
+<p align="left">Hello, I’m Nabil Bariq R, a fifth-semester student at BINUS University with a GPA of 3.72. I have internship experience as an IT Business Analyst, where I honed my skills in analyzing business requirements and improving processes. Despite my focus on business analysis, I also possess a keen interest and strong foundation in technical areas such as programming, software development, and database management. I am eager to expand my expertise and contribute in both non-technical and technical roles, combining my analytical mindset with hands-on technical skills to deliver impactful solutions.</p>
 <h3 align="left">Ambatron</h3>
 <p align="left">Buss....
 </p>
